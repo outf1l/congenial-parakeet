@@ -2,8 +2,8 @@
 // @name         MAX Destruction
 // @namespace    http://tampermonkey.net/
 // @version      2025-07-06
-// @description  try to take over the world!
-// @author       You
+// @description  ломает max.ru
+// @author       outf1l
 // @match        *://max.ru/*
 // @match        *://download.max.ru/*
 // @match        *://help.max.ru/*
